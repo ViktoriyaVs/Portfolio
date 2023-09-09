@@ -40,13 +40,13 @@
   Пример чек-листа
 </p>
 
-![Примеры тест-кейсов](https://github.com/ViktoriyaVs/Portfolio/blob/main/check-list.png)
+![Пример чек-листа](https://github.com/ViktoriyaVs/Portfolio/blob/main/check-list.png)
 
 <p>
   Пример баг-репорта
 </p>
 
-![Примеры тест-кейсов](https://github.com/ViktoriyaVs/Portfolio/blob/main/bug-report.png)
+![Пример баг-репорта](https://github.com/ViktoriyaVs/Portfolio/blob/main/bug-report.png)
 
 
 > <a href="https://miro.com/app/board/uXjVPhPL-Gs=/">Пример декомпозиции</a>

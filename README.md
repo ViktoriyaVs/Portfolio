@@ -32,8 +32,8 @@
 
 <p>
   Примеры тест-кейсов
-  ![Примеры тест-кейсов](https://github.com/ViktoriyaVs/Portfolio/blob/main/test-cases.jpg)
 </p>
+![Примеры тест-кейсов](https://github.com/ViktoriyaVs/Portfolio/blob/main/test-cases.jpg)
    
  </p>
  <p>Выводы (итоги):<p>

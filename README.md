@@ -31,11 +31,19 @@
  <p> Для каждого вида тестирования были составлены тест кейсы и чек листы, на все обнаруженные баги были заведены баг-репотры.
 
 <p>
-  Примеры тест-кейсов
+  Пример тест-кейсов
 </p>
 
 ![Примеры тест-кейсов](https://github.com/ViktoriyaVs/Portfolio/blob/main/test-cases.png)
-   
+
+<p>
+  Пример чек-листа
+</p>
+
+![Примеры тест-кейсов](https://github.com/ViktoriyaVs/Portfolio/blob/main/check-list.png)
+
+> <a href="https://miro.com/app/board/uXjVPhPL-Gs=/">Пример декомпозиции</a>
+
  </p>
  <p>Выводы (итоги):<p>
 <ol>

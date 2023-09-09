@@ -32,7 +32,7 @@
 
 <p>
   Примеры тест-кейсов
-  ![Примеры тест-кейсов](https://github.com/ViktoriyaVs/Portfolio/blob/main/test-cases.jpg?raw=true)
+  ![Примеры тест-кейсов](https://github.com/ViktoriyaVs/Portfolio/blob/main/test-cases.jpg)
 </p>
    
  </p>

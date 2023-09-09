@@ -34,7 +34,7 @@
   Примеры тест-кейсов
 </p>
 <p>
-![Примеры тест-кейсов](https://github.com/ViktoriyaVs/Portfolio/blob/main/test-cases.jpg)
+![Примеры тест-кейсов](https://github.com/ViktoriyaVs/Portfolio/blob/main/test-cases.png)
 </p>
   
    

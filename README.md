@@ -30,8 +30,10 @@
 </ol>
  <p> Для каждого вида тестирования были составлены тест кейсы и чек листы, на все обнаруженные баги были заведены баг-репотры.
 
-> <a href="https://qa-bug-report-testt.atlassian.net/wiki/spaces/1/pages/426009">Ссылка на проект</a>
- <p>
+<p>
+  Примеры тест-кейсов
+  ![Примеры тест-кейсов](https://github.com/ViktoriyaVs/Portfolio/blob/main/test-cases.jpg?raw=true)
+</p>
    
  </p>
  <p>Выводы (итоги):<p>
